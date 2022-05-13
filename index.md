@@ -2,34 +2,32 @@
 
 ---
 
-### Category Name 1 
+### Data Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [Dirty Data Project](/pdf/candy_data_analysis.html)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dirty_data.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Git](https://github.com/Slonna1/dirty_data_codeclan_project_simone_famiano)
 
 ---
+## [Citi Bike Analysis](/pdf/markdown_citi_bike_simone_famiano.html)
+<img src="images/citi_bike.jpg?raw=true"/> 
 
-### Category Name 2
+[Git](<https://github.com/Slonna1/pda_simone_famiano/tree/main/bike_homework_pda>)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+## [PHS Dashboard](/pdf/project_template_group1.html)
+
+<img src="images/phs.png?raw=true"/>
+
+[Git](<https://github.com/Arctic-64/CC_PDA2_G1>)
 
 ---
 
 
 
 
+
+
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
